@@ -1,0 +1,556 @@
+{
+    "fraud_communities": {
+        "C99": {
+            "Members": [
+                "9915363036",
+                "5483084800",
+                "7905332311"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 224025.58,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C275": {
+            "Members": [
+                "4578611743",
+                "5440258024",
+                "1680395880"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 179914.51,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C284": {
+            "Members": [
+                "6307735721",
+                "7811658898",
+                "4258630123"
+            ],
+            "Avg_Anomaly": 0.98,
+            "Avg_Amount": 386763.43,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 57
+        },
+        "C332": {
+            "Members": [
+                "6595948626",
+                "240507050",
+                "2419610873"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 224207.03,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C374": {
+            "Members": [
+                "6435356324",
+                "2320737298",
+                "74025959"
+            ],
+            "Avg_Anomaly": 0.98,
+            "Avg_Amount": 338649.83,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C395": {
+            "Members": [
+                "2455635448",
+                "5637969761",
+                "5924341717"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 170466.67,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C647": {
+            "Members": [
+                "7151161576",
+                "5682144550",
+                "7233289296"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 320845.3,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C955": {
+            "Members": [
+                "5196620208",
+                "135711146",
+                "2960052525"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 402229.81,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C1041": {
+            "Members": [
+                "8500617062",
+                "8655926530",
+                "1092427473"
+            ],
+            "Avg_Anomaly": 0.97,
+            "Avg_Amount": 195836.99,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C1042": {
+            "Members": [
+                "8870935150",
+                "9298145908",
+                "857101630"
+            ],
+            "Avg_Anomaly": 0.97,
+            "Avg_Amount": 209728.08,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C1174": {
+            "Members": [
+                "922331203",
+                "775046334",
+                "8289278127"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 159022.5,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C1337": {
+            "Members": [
+                "341540842",
+                "3640524522",
+                "4787220808"
+            ],
+            "Avg_Anomaly": 0.98,
+            "Avg_Amount": 166484.46,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C1564": {
+            "Members": [
+                "44700745",
+                "6300324926",
+                "913444025"
+            ],
+            "Avg_Anomaly": 0.97,
+            "Avg_Amount": 416283.26,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C1796": {
+            "Members": [
+                "8267521261",
+                "3479326462",
+                "6530666268"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 180879.9,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C1798": {
+            "Members": [
+                "6166863206",
+                "2141843758",
+                "5531718006"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 278555.2,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C1843": {
+            "Members": [
+                "7872016246",
+                "4841581270",
+                "3435477998"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 173642.05,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C1857": {
+            "Members": [
+                "4817574512",
+                "9681150155",
+                "5854101876"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 213222.37,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C1862": {
+            "Members": [
+                "9364795561",
+                "9134391399",
+                "6822480904"
+            ],
+            "Avg_Anomaly": 0.97,
+            "Avg_Amount": 284354.0,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C1888": {
+            "Members": [
+                "867365092",
+                "8988683858",
+                "2402346473"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 207927.64,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C1895": {
+            "Members": [
+                "2032652514",
+                "8786369848",
+                "1345823816"
+            ],
+            "Avg_Anomaly": 0.97,
+            "Avg_Amount": 222394.33,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C1908": {
+            "Members": [
+                "1188190900",
+                "6812338608",
+                "6663687647"
+            ],
+            "Avg_Anomaly": 0.97,
+            "Avg_Amount": 165504.06,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C1993": {
+            "Members": [
+                "7491153825",
+                "5297785982",
+                "2038380751"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 177498.95,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C2049": {
+            "Members": [
+                "8715813054",
+                "6044442411",
+                "3456070396"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 396585.67,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C2454": {
+            "Members": [
+                "1071180118",
+                "7820381460",
+                "6721303902"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 149859.27,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C2540": {
+            "Members": [
+                "5677003541",
+                "1445360525",
+                "6153623150"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 272579.79,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C2582": {
+            "Members": [
+                "1300579441",
+                "9566135771",
+                "9776572549"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 488593.64,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C2640": {
+            "Members": [
+                "6704545646",
+                "3565698075",
+                "9237556901"
+            ],
+            "Avg_Anomaly": 0.98,
+            "Avg_Amount": 301368.02,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C3119": {
+            "Members": [
+                "8464638596",
+                "9612811605",
+                "2665351741"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 147849.93,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C3250": {
+            "Members": [
+                "9071206381",
+                "8636665299",
+                "2930954740"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 199801.72,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C3288": {
+            "Members": [
+                "3476370584",
+                "4991688859",
+                "5184636340"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 223834.15,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C3511": {
+            "Members": [
+                "9987494058",
+                "7176421882",
+                "2532660955"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 263478.6,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C3534": {
+            "Members": [
+                "2078336762",
+                "4475340746",
+                "3174235552"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 245364.58,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C3546": {
+            "Members": [
+                "8158046960",
+                "3133412336",
+                "4781585854"
+            ],
+            "Avg_Anomaly": 0.98,
+            "Avg_Amount": 149687.98,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C3608": {
+            "Members": [
+                "690728505",
+                "8863286130",
+                "4073241270"
+            ],
+            "Avg_Anomaly": 0.97,
+            "Avg_Amount": 155166.16,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C4570": {
+            "Members": [
+                "8188003704",
+                "4490851396",
+                "1838186980"
+            ],
+            "Avg_Anomaly": 0.97,
+            "Avg_Amount": 280533.95,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C4659": {
+            "Members": [
+                "7169550816",
+                "284954472",
+                "2461017980"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 515718.99,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C4721": {
+            "Members": [
+                "8356948151",
+                "2678726510",
+                "2370645176"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 249169.52,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C4746": {
+            "Members": [
+                "5576427536",
+                "5674785943",
+                "6413917621"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 155292.99,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C4795": {
+            "Members": [
+                "2016336853",
+                "7830762580",
+                "7268084016"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 250471.4,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C5058": {
+            "Members": [
+                "2854521687",
+                "1227954939",
+                "9236433132"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 265663.22,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 57
+        },
+        "C5080": {
+            "Members": [
+                "3359066494",
+                "1766431209",
+                "4432187872"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 221115.16,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C5156": {
+            "Members": [
+                "7311108952",
+                "7556874867",
+                "592569739"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 237264.97,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C5834": {
+            "Members": [
+                "2568294204",
+                "2888919128",
+                "4246910132"
+            ],
+            "Avg_Anomaly": 0.98,
+            "Avg_Amount": 193860.9,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C6294": {
+            "Members": [
+                "7649413035",
+                "7653800117",
+                "4123133088"
+            ],
+            "Avg_Anomaly": 0.97,
+            "Avg_Amount": 163957.84,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C6407": {
+            "Members": [
+                "5502385057",
+                "6534032010",
+                "7810634768"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 200870.09,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        },
+        "C7515": {
+            "Members": [
+                "3863911945",
+                "5783379295",
+                "2707999526"
+            ],
+            "Avg_Anomaly": 1.0,
+            "Avg_Amount": 356595.8,
+            "Edge_Count": 2,
+            "Density": 0.33,
+            "Transaction_Count": 38
+        }
+    }
+}

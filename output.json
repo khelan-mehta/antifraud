@@ -1,0 +1,1120 @@
+[
+    {
+        "Community_ID": "C60",
+        "Layering_Depth": 3,
+        "Structured_Transactions": [
+            {
+                "Transaction_ID": "TXN9565",
+                "Split_Accounts": [
+                    "2636160493",
+                    "2016336853",
+                    "7268084016"
+                ],
+                "Time_Diff": 23242.0
+            }
+        ],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "7830762580",
+                "To": "2636160493",
+                "Amount": 300.51,
+                "Transaction_ID": "TXN17179"
+            },
+            {
+                "From": "7830762580",
+                "To": "2016336853",
+                "Amount": 4686.66,
+                "Transaction_ID": "TXN7865"
+            },
+            {
+                "From": "7830762580",
+                "To": "7268084016",
+                "Amount": 21678.75,
+                "Transaction_ID": "TXN9565"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C79",
+        "Layering_Depth": 4,
+        "Structured_Transactions": [
+            {
+                "Transaction_ID": "TXN4901",
+                "Split_Accounts": [
+                    "4258630123",
+                    "6307735721",
+                    "8778070788",
+                    "7132174330"
+                ],
+                "Time_Diff": 0.0
+            }
+        ],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "7811658898",
+                "To": "4258630123",
+                "Amount": 24040.3,
+                "Transaction_ID": "TXN4901"
+            },
+            {
+                "From": "7811658898",
+                "To": "6307735721",
+                "Amount": 8335.82,
+                "Transaction_ID": "TXN699"
+            },
+            {
+                "From": "7811658898",
+                "To": "8778070788",
+                "Amount": 19588.74,
+                "Transaction_ID": "TXN1747"
+            },
+            {
+                "From": "7811658898",
+                "To": "7132174330",
+                "Amount": 11853.65,
+                "Transaction_ID": "TXN14282"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C358",
+        "Layering_Depth": 2,
+        "Structured_Transactions": [
+            {
+                "Transaction_ID": "TXN8163",
+                "Split_Accounts": [
+                    "2078336762",
+                    "715932873"
+                ],
+                "Time_Diff": 0.0
+            }
+        ],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "3174235552",
+                "To": "4475340746",
+                "Amount": 12918.63,
+                "Transaction_ID": "TXN7221"
+            },
+            {
+                "From": "4475340746",
+                "To": "2078336762",
+                "Amount": 12909.22,
+                "Transaction_ID": "TXN8163"
+            },
+            {
+                "From": "4475340746",
+                "To": "715932873",
+                "Amount": 653.23,
+                "Transaction_ID": "TXN11182"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C393",
+        "Layering_Depth": 0,
+        "Structured_Transactions": [],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "2455635448",
+                "To": "5924341717",
+                "Amount": 6212.13,
+                "Transaction_ID": "TXN17080"
+            },
+            {
+                "From": "5637969761",
+                "To": "5924341717",
+                "Amount": 11731.73,
+                "Transaction_ID": "TXN13208"
+            },
+            {
+                "From": "6653953807",
+                "To": "5924341717",
+                "Amount": 9829.47,
+                "Transaction_ID": "TXN16737"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C542",
+        "Layering_Depth": 0,
+        "Structured_Transactions": [],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "2977649269",
+                "To": "6595948626",
+                "Amount": 13986.69,
+                "Transaction_ID": "TXN10047"
+            },
+            {
+                "From": "6595948626",
+                "To": "240507050",
+                "Amount": 13690.16,
+                "Transaction_ID": "TXN9498"
+            },
+            {
+                "From": "6595948626",
+                "To": "2419610873",
+                "Amount": 9910.58,
+                "Transaction_ID": "TXN17621"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C664",
+        "Layering_Depth": 0,
+        "Structured_Transactions": [],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "2930954740",
+                "To": "8391210060",
+                "Amount": 8595.19,
+                "Transaction_ID": "TXN1719"
+            },
+            {
+                "From": "8636665299",
+                "To": "2930954740",
+                "Amount": 15399.85,
+                "Transaction_ID": "TXN4664"
+            },
+            {
+                "From": "9071206381",
+                "To": "2930954740",
+                "Amount": 5631.91,
+                "Transaction_ID": "TXN12915"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C816",
+        "Layering_Depth": 0,
+        "Structured_Transactions": [],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "2888919128",
+                "To": "2568294204",
+                "Amount": 10047.59,
+                "Transaction_ID": "TXN17134"
+            },
+            {
+                "From": "4246910132",
+                "To": "2888919128",
+                "Amount": 10358.82,
+                "Transaction_ID": "TXN13659"
+            },
+            {
+                "From": "5973197871",
+                "To": "2888919128",
+                "Amount": 2388.59,
+                "Transaction_ID": "TXN18341"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C857",
+        "Layering_Depth": 0,
+        "Structured_Transactions": [],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "7169550816",
+                "To": "2461017980",
+                "Amount": 30336.99,
+                "Transaction_ID": "TXN11830"
+            },
+            {
+                "From": "7169550816",
+                "To": "284954472",
+                "Amount": 23949.22,
+                "Transaction_ID": "TXN3594"
+            },
+            {
+                "From": "9156252153",
+                "To": "7169550816",
+                "Amount": 5454.83,
+                "Transaction_ID": "TXN3075"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C932",
+        "Layering_Depth": 2,
+        "Structured_Transactions": [
+            {
+                "Transaction_ID": "TXN10766",
+                "Split_Accounts": [
+                    "3428223299",
+                    "8858804974"
+                ],
+                "Time_Diff": 0.0
+            }
+        ],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "592569739",
+                "To": "7556874867",
+                "Amount": 16122.53,
+                "Transaction_ID": "TXN19512"
+            },
+            {
+                "From": "592569739",
+                "To": "7556874867",
+                "Amount": 16194.7,
+                "Transaction_ID": "TXN11351"
+            },
+            {
+                "From": "7311108952",
+                "To": "7556874867",
+                "Amount": 8780.56,
+                "Transaction_ID": "TXN15444"
+            },
+            {
+                "From": "7556874867",
+                "To": "3428223299",
+                "Amount": 17149.36,
+                "Transaction_ID": "TXN10766"
+            },
+            {
+                "From": "7556874867",
+                "To": "8858804974",
+                "Amount": 3927.83,
+                "Transaction_ID": "TXN18751"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C1031",
+        "Layering_Depth": 0,
+        "Structured_Transactions": [],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "135711146",
+                "To": "2960052525",
+                "Amount": 24089.96,
+                "Transaction_ID": "TXN11552"
+            },
+            {
+                "From": "287054689",
+                "To": "2960052525",
+                "Amount": 6557.83,
+                "Transaction_ID": "TXN6556"
+            },
+            {
+                "From": "538890705",
+                "To": "2960052525",
+                "Amount": 6026.42,
+                "Transaction_ID": "TXN15566"
+            },
+            {
+                "From": "1948904497",
+                "To": "2960052525",
+                "Amount": 11225.28,
+                "Transaction_ID": "TXN5752"
+            },
+            {
+                "From": "5196620208",
+                "To": "2960052525",
+                "Amount": 18250.02,
+                "Transaction_ID": "TXN12427"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C1104",
+        "Layering_Depth": 0,
+        "Structured_Transactions": [],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "1680395880",
+                "To": "5440258024",
+                "Amount": 10450.72,
+                "Transaction_ID": "TXN108"
+            },
+            {
+                "From": "4578611743",
+                "To": "5440258024",
+                "Amount": 8487.65,
+                "Transaction_ID": "TXN7993"
+            },
+            {
+                "From": "5440258024",
+                "To": "9691442988",
+                "Amount": 3389.61,
+                "Transaction_ID": "TXN18637"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C1289",
+        "Layering_Depth": 3,
+        "Structured_Transactions": [
+            {
+                "Transaction_ID": "TXN5915",
+                "Split_Accounts": [
+                    "627215635",
+                    "6534032010",
+                    "4016561885"
+                ],
+                "Time_Diff": 15284140.0
+            }
+        ],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "5502385057",
+                "To": "7810634768",
+                "Amount": 11961.92,
+                "Transaction_ID": "TXN5971"
+            },
+            {
+                "From": "7810634768",
+                "To": "627215635",
+                "Amount": 7541.72,
+                "Transaction_ID": "TXN19865"
+            },
+            {
+                "From": "7810634768",
+                "To": "6534032010",
+                "Amount": 9182.3,
+                "Transaction_ID": "TXN5915"
+            },
+            {
+                "From": "7810634768",
+                "To": "4016561885",
+                "Amount": 122.5,
+                "Transaction_ID": "TXN19457"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C1300",
+        "Layering_Depth": 2,
+        "Structured_Transactions": [
+            {
+                "Transaction_ID": "TXN11537",
+                "Split_Accounts": [
+                    "2665351741",
+                    "8464638596"
+                ],
+                "Time_Diff": 0.0
+            }
+        ],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "4725371957",
+                "To": "9612811605",
+                "Amount": 9353.03,
+                "Transaction_ID": "TXN7889"
+            },
+            {
+                "From": "9612811605",
+                "To": "2665351741",
+                "Amount": 12879.67,
+                "Transaction_ID": "TXN11537"
+            },
+            {
+                "From": "9612811605",
+                "To": "8464638596",
+                "Amount": 2683.48,
+                "Transaction_ID": "TXN13855"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C1317",
+        "Layering_Depth": 0,
+        "Structured_Transactions": [],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "8870935150",
+                "To": "9298145908",
+                "Amount": 4997.68,
+                "Transaction_ID": "TXN19427"
+            },
+            {
+                "From": "9298145908",
+                "To": "1040558745",
+                "Amount": 10067.82,
+                "Transaction_ID": "TXN8310"
+            },
+            {
+                "From": "9298145908",
+                "To": "857101630",
+                "Amount": 17078.96,
+                "Transaction_ID": "TXN1430"
+            },
+            {
+                "From": "9298145908",
+                "To": "6076054632",
+                "Amount": 12883.04,
+                "Transaction_ID": "TXN7146"
+            },
+            {
+                "From": "9298145908",
+                "To": "6545394241",
+                "Amount": 10165.28,
+                "Transaction_ID": "TXN11904"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C1358",
+        "Layering_Depth": 4,
+        "Structured_Transactions": [
+            {
+                "Transaction_ID": "TXN5577",
+                "Split_Accounts": [
+                    "5576427536",
+                    "2436826085",
+                    "389964437",
+                    "6413917621"
+                ],
+                "Time_Diff": 2346729.0
+            }
+        ],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "5674785943",
+                "To": "5576427536",
+                "Amount": 4864.94,
+                "Transaction_ID": "TXN5056"
+            },
+            {
+                "From": "5674785943",
+                "To": "2436826085",
+                "Amount": 8321.76,
+                "Transaction_ID": "TXN14213"
+            },
+            {
+                "From": "5674785943",
+                "To": "389964437",
+                "Amount": 2134.27,
+                "Transaction_ID": "TXN7047"
+            },
+            {
+                "From": "5674785943",
+                "To": "6413917621",
+                "Amount": 11481.69,
+                "Transaction_ID": "TXN5577"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C1495",
+        "Layering_Depth": 3,
+        "Structured_Transactions": [
+            {
+                "Transaction_ID": "TXN901",
+                "Split_Accounts": [
+                    "5297785982",
+                    "1335003507",
+                    "7491153825"
+                ],
+                "Time_Diff": 17161818.0
+            }
+        ],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "2038380751",
+                "To": "5297785982",
+                "Amount": 2597.47,
+                "Transaction_ID": "TXN1388"
+            },
+            {
+                "From": "2038380751",
+                "To": "1335003507",
+                "Amount": 10948.26,
+                "Transaction_ID": "TXN8420"
+            },
+            {
+                "From": "2038380751",
+                "To": "7491153825",
+                "Amount": 16086.63,
+                "Transaction_ID": "TXN901"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C1545",
+        "Layering_Depth": 3,
+        "Structured_Transactions": [
+            {
+                "Transaction_ID": "TXN59",
+                "Split_Accounts": [
+                    "7033025396",
+                    "6300324926",
+                    "4143849271"
+                ],
+                "Time_Diff": 524275.0
+            }
+        ],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "44700745",
+                "To": "7033025396",
+                "Amount": 7237.11,
+                "Transaction_ID": "TXN3084"
+            },
+            {
+                "From": "44700745",
+                "To": "6300324926",
+                "Amount": 4559.11,
+                "Transaction_ID": "TXN2096"
+            },
+            {
+                "From": "44700745",
+                "To": "4143849271",
+                "Amount": 54060.53,
+                "Transaction_ID": "TXN59"
+            },
+            {
+                "From": "913444025",
+                "To": "44700745",
+                "Amount": 39260.18,
+                "Transaction_ID": "TXN14881"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C1679",
+        "Layering_Depth": 0,
+        "Structured_Transactions": [],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "5483084800",
+                "To": "7905332311",
+                "Amount": 9734.51,
+                "Transaction_ID": "TXN6128"
+            },
+            {
+                "From": "7905332311",
+                "To": "8987149722",
+                "Amount": 5263.87,
+                "Transaction_ID": "TXN4577"
+            },
+            {
+                "From": "7905332311",
+                "To": "9915363036",
+                "Amount": 13847.13,
+                "Transaction_ID": "TXN6565"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C1773",
+        "Layering_Depth": 5,
+        "Structured_Transactions": [
+            {
+                "Transaction_ID": "TXN1815",
+                "Split_Accounts": [
+                    "1179759536",
+                    "6492457068",
+                    "8863286130",
+                    "1117598741",
+                    "690728505"
+                ],
+                "Time_Diff": 6541449.0
+            }
+        ],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "4073241270",
+                "To": "1179759536",
+                "Amount": 570.38,
+                "Transaction_ID": "TXN8161"
+            },
+            {
+                "From": "4073241270",
+                "To": "6492457068",
+                "Amount": 38089.95,
+                "Transaction_ID": "TXN1815"
+            },
+            {
+                "From": "4073241270",
+                "To": "8863286130",
+                "Amount": 11210.94,
+                "Transaction_ID": "TXN15780"
+            },
+            {
+                "From": "4073241270",
+                "To": "1117598741",
+                "Amount": 5277.09,
+                "Transaction_ID": "TXN3745"
+            },
+            {
+                "From": "4073241270",
+                "To": "690728505",
+                "Amount": 5122.34,
+                "Transaction_ID": "TXN12757"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C2246",
+        "Layering_Depth": 0,
+        "Structured_Transactions": [],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "2707999526",
+                "To": "3863911945",
+                "Amount": 34860.88,
+                "Transaction_ID": "TXN19442"
+            },
+            {
+                "From": "3863911945",
+                "To": "5783379295",
+                "Amount": 2675.52,
+                "Transaction_ID": "TXN16639"
+            },
+            {
+                "From": "4570315806",
+                "To": "3863911945",
+                "Amount": 6938.64,
+                "Transaction_ID": "TXN11717"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C2386",
+        "Layering_Depth": 0,
+        "Structured_Transactions": [],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "1137884012",
+                "To": "8188003704",
+                "Amount": 2064.56,
+                "Transaction_ID": "TXN19063"
+            },
+            {
+                "From": "1838186980",
+                "To": "8188003704",
+                "Amount": 18341.53,
+                "Transaction_ID": "TXN11625"
+            },
+            {
+                "From": "4490851396",
+                "To": "8188003704",
+                "Amount": 11188.36,
+                "Transaction_ID": "TXN11228"
+            },
+            {
+                "From": "8188003704",
+                "To": "2511454691",
+                "Amount": 8495.47,
+                "Transaction_ID": "TXN1572"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C3741",
+        "Layering_Depth": 2,
+        "Structured_Transactions": [
+            {
+                "Transaction_ID": "TXN4649",
+                "Split_Accounts": [
+                    "6853512630",
+                    "2459513541"
+                ],
+                "Time_Diff": 0.0
+            }
+        ],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "3672733717",
+                "To": "6853512630",
+                "Amount": 7882.03,
+                "Transaction_ID": "TXN4649"
+            },
+            {
+                "From": "3672733717",
+                "To": "2459513541",
+                "Amount": 1660.91,
+                "Transaction_ID": "TXN17113"
+            },
+            {
+                "From": "5792032725",
+                "To": "3672733717",
+                "Amount": 11664.73,
+                "Transaction_ID": "TXN9981"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C4266",
+        "Layering_Depth": 0,
+        "Structured_Transactions": [],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "341540842",
+                "To": "5429264879",
+                "Amount": 5196.42,
+                "Transaction_ID": "TXN12928"
+            },
+            {
+                "From": "341540842",
+                "To": "3640524522",
+                "Amount": 10860.65,
+                "Transaction_ID": "TXN7792"
+            },
+            {
+                "From": "341540842",
+                "To": "4787220808",
+                "Amount": 6664.03,
+                "Transaction_ID": "TXN15721"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C4802",
+        "Layering_Depth": 2,
+        "Structured_Transactions": [
+            {
+                "Transaction_ID": "TXN15845",
+                "Split_Accounts": [
+                    "3565698075",
+                    "8147946996"
+                ],
+                "Time_Diff": 0.0
+            }
+        ],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "6704545646",
+                "To": "3565698075",
+                "Amount": 26049.91,
+                "Transaction_ID": "TXN15845"
+            },
+            {
+                "From": "6704545646",
+                "To": "8147946996",
+                "Amount": 1764.8,
+                "Transaction_ID": "TXN2868"
+            },
+            {
+                "From": "9237556901",
+                "To": "6704545646",
+                "Amount": 5673.04,
+                "Transaction_ID": "TXN6987"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C4968",
+        "Layering_Depth": 0,
+        "Structured_Transactions": [],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "6822480904",
+                "To": "9134391399",
+                "Amount": 5791.06,
+                "Transaction_ID": "TXN10456"
+            },
+            {
+                "From": "8399177525",
+                "To": "9134391399",
+                "Amount": 26330.93,
+                "Transaction_ID": "TXN3275"
+            },
+            {
+                "From": "9364795561",
+                "To": "9134391399",
+                "Amount": 24140.94,
+                "Transaction_ID": "TXN16269"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C5061",
+        "Layering_Depth": 3,
+        "Structured_Transactions": [
+            {
+                "Transaction_ID": "TXN6381",
+                "Split_Accounts": [
+                    "775046334",
+                    "1944041372",
+                    "6821740424"
+                ],
+                "Time_Diff": 18483.0
+            }
+        ],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "922331203",
+                "To": "775046334",
+                "Amount": 859.39,
+                "Transaction_ID": "TXN11891"
+            },
+            {
+                "From": "922331203",
+                "To": "1944041372",
+                "Amount": 10253.0,
+                "Transaction_ID": "TXN16485"
+            },
+            {
+                "From": "922331203",
+                "To": "6821740424",
+                "Amount": 19211.19,
+                "Transaction_ID": "TXN6381"
+            },
+            {
+                "From": "5459107321",
+                "To": "922331203",
+                "Amount": 18249.62,
+                "Transaction_ID": "TXN13559"
+            },
+            {
+                "From": "8289278127",
+                "To": "922331203",
+                "Amount": 15879.82,
+                "Transaction_ID": "TXN17270"
+            },
+            {
+                "From": "9753094685",
+                "To": "922331203",
+                "Amount": 1229.54,
+                "Transaction_ID": "TXN18349"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C6659",
+        "Layering_Depth": 0,
+        "Structured_Transactions": [],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "3882044768",
+                "To": "3394384190",
+                "Amount": 8597.67,
+                "Transaction_ID": "TXN13046"
+            },
+            {
+                "From": "6024863461",
+                "To": "3394384190",
+                "Amount": 4918.21,
+                "Transaction_ID": "TXN18917"
+            },
+            {
+                "From": "8251273285",
+                "To": "3394384190",
+                "Amount": 7171.84,
+                "Transaction_ID": "TXN9013"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C6697",
+        "Layering_Depth": 3,
+        "Structured_Transactions": [
+            {
+                "Transaction_ID": "TXN13861",
+                "Split_Accounts": [
+                    "8786369848",
+                    "2032652514",
+                    "9017491137"
+                ],
+                "Time_Diff": 18647.0
+            }
+        ],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "1345823816",
+                "To": "8786369848",
+                "Amount": 4864.02,
+                "Transaction_ID": "TXN4956"
+            },
+            {
+                "From": "1345823816",
+                "To": "2032652514",
+                "Amount": 18545.91,
+                "Transaction_ID": "TXN13861"
+            },
+            {
+                "From": "1345823816",
+                "To": "9017491137",
+                "Amount": 61.69,
+                "Transaction_ID": "TXN11457"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C7803",
+        "Layering_Depth": 3,
+        "Structured_Transactions": [
+            {
+                "Transaction_ID": "TXN5215",
+                "Split_Accounts": [
+                    "9236433132",
+                    "2854521687",
+                    "6603032714"
+                ],
+                "Time_Diff": 707276.0
+            }
+        ],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "1227954939",
+                "To": "9236433132",
+                "Amount": 6715.87,
+                "Transaction_ID": "TXN14131"
+            },
+            {
+                "From": "1227954939",
+                "To": "9236433132",
+                "Amount": 10347.89,
+                "Transaction_ID": "TXN10292"
+            },
+            {
+                "From": "1227954939",
+                "To": "2854521687",
+                "Amount": 14532.81,
+                "Transaction_ID": "TXN5215"
+            },
+            {
+                "From": "1227954939",
+                "To": "6603032714",
+                "Amount": 552.23,
+                "Transaction_ID": "TXN3532"
+            },
+            {
+                "From": "2740892957",
+                "To": "1227954939",
+                "Amount": 7116.15,
+                "Transaction_ID": "TXN15245"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C8231",
+        "Layering_Depth": 0,
+        "Structured_Transactions": [],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "1188190900",
+                "To": "6663687647",
+                "Amount": 16579.39,
+                "Transaction_ID": "TXN17340"
+            },
+            {
+                "From": "4642828811",
+                "To": "6663687647",
+                "Amount": 18246.16,
+                "Transaction_ID": "TXN17165"
+            },
+            {
+                "From": "4722209685",
+                "To": "6663687647",
+                "Amount": 4392.35,
+                "Transaction_ID": "TXN6280"
+            },
+            {
+                "From": "6663687647",
+                "To": "6812338608",
+                "Amount": 842.09,
+                "Transaction_ID": "TXN8056"
+            }
+        ],
+        "Cycles": []
+    },
+    {
+        "Community_ID": "C8272",
+        "Layering_Depth": 0,
+        "Structured_Transactions": [],
+        "Smurfing_Transactions": [],
+        "Money_Flow": [
+            {
+                "From": "4123133088",
+                "To": "3043019729",
+                "Amount": 9896.08,
+                "Transaction_ID": "TXN18763"
+            },
+            {
+                "From": "4123133088",
+                "To": "7649413035",
+                "Amount": 12289.69,
+                "Transaction_ID": "TXN11177"
+            },
+            {
+                "From": "4123133088",
+                "To": "1309770116",
+                "Amount": 360.76,
+                "Transaction_ID": "TXN7847"
+            },
+            {
+                "From": "4123133088",
+                "To": "1119281393",
+                "Amount": 13202.35,
+                "Transaction_ID": "TXN18814"
+            },
+            {
+                "From": "7653800117",
+                "To": "4123133088",
+                "Amount": 5049.98,
+                "Transaction_ID": "TXN1696"
+            },
+            {
+                "From": "7653800117",
+                "To": "4123133088",
+                "Amount": 4969.03,
+                "Transaction_ID": "TXN12617"
+            }
+        ],
+        "Cycles": []
+    }
+]

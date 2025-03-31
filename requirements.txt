@@ -1,0 +1,7 @@
+Flask
+pandas
+numpy
+networkx
+hmmlearn
+scikit-learn
+imbalanced-learn

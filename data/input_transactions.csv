@@ -1,0 +1,2 @@
+Time,Date,Sender_account,Receiver_account,Amount,Payment_currency,Received_currency,Sender_bank_location,Receiver_bank_location,Payment_type,Transaction_ID,Is_laundering,Laundering_type
+11:26:21,31-03-2025,1491989064,9460624653,200,USD,USD,United States,United States,Wire Transfer,TX-562862-0829,0,
